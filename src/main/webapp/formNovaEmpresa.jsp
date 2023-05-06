@@ -8,7 +8,6 @@
 </head>
 <body>
 
-
 	<form action="${ linkServletNovaEmpresa }" method="POST">
 		Nome: <input type="text" name="nome" />
 		Data Abertura: <input type="text" name="data" />
